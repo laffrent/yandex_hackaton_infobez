@@ -164,3 +164,4 @@ catboost_info/learn_error.tsv
 catboost_info/time_left.tsv
 catboost_info/tmp/cat_feature_index.b6ac1af-26a745f3-751b228a-cbaecc6f.tmp
 data/network_traffic_data.csv
+*.tmp
